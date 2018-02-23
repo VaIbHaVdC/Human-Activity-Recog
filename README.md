@@ -19,3 +19,4 @@
 
 This is an attempt to apply Logistic Regression, Random Forest and Feed  forward neural network to do the classification job.
 The accuraies obtained on the cross validation set as provided along the training data are 95.5%, 98.3% and 99.5% for the respective models.
+For dataset visit : https://archive.ics.uci.edu/ml/machine-learning-databases/00240/
